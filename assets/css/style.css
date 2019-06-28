@@ -99,3 +99,12 @@ a, a:hover {
     color: #ffffff;
     text-decoration:  none;
 }
+
+.contact-info {
+    color: black;
+    display: block; 
+}
+
+.contact-info:hover {
+    color: #4aaaa5;
+}
